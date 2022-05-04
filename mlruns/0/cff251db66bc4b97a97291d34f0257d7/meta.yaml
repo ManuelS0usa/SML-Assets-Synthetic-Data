@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/cff251db66bc4b97a97291d34f0257d7/artifacts
+end_time: 1651692179931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: cff251db66bc4b97a97291d34f0257d7
+run_uuid: cff251db66bc4b97a97291d34f0257d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1651692179868
+status: 3
+tags: []
+user_id: manuelsousa
