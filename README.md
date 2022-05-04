@@ -1,5 +1,5 @@
-# Supervised Machine Learning Project 
-## Asset Maintenance use-case for a Synthetic Railway Company
+# Asset Maintenance use-case for a Synthetic Railway Company
+### Supervised Machine Learning Project 
 #### Manuel Sousa | 27.04.2022
 
 ### Data Set Information:
