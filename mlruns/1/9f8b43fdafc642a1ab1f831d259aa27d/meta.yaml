@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ManuelSousa/Documents/P%C3%B3s-Gradua%C3%A7%C3%A3o%20Applied%20AI%20%26%20ML/Bloco%202/Supervised%20Machine%20Learning/SML-Assets-Synthetic-Data/mlruns/1/9f8b43fdafc642a1ab1f831d259aa27d/artifacts
+end_time: 1651659977645
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 9f8b43fdafc642a1ab1f831d259aa27d
+run_uuid: 9f8b43fdafc642a1ab1f831d259aa27d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1651659977605
+status: 3
+tags: []
+user_id: manuelsousa
